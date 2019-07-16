@@ -1,0 +1,37 @@
+10
+
+dir
+1281
+svn://123.56.45.68/aomeijianew/Android/Aomeijia/commonlibrary/src/main/java/foundation/base
+svn://123.56.45.68/aomeijianew
+
+
+
+2017-12-05T10:17:58.318273Z
+1255
+lixiangyi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6211dbed-820e-4ac6-9ab7-4b855b95225a
+
+activity
+dir
+
+adapter
+dir
+
+fragment
+dir
+
